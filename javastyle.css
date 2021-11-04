@@ -1,0 +1,46 @@
+body{ 
+    background-color: red
+}
+
+h1{ 
+    text-align: center;
+	color: red
+}
+
+h2{
+	text-align: left;
+	color: orange;
+}
+
+h3{
+	font-size: 100px;
+	text-align: right;
+	color: pink;
+}
+
+.java{
+	background-color: green;
+}
+
+h5{
+	font-size: 50px;
+	color: brown;
+	text-align: center;
+}
+
+h6{
+	font-size: 55px;
+	color: blue;
+	text-align: center;
+}
+
+h7{
+	font-size: 25px;
+	color: green;
+	
+}
+
+h8{
+	font-size: 40px;
+	color: green;	
+}
